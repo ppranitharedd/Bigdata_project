@@ -30,4 +30,4 @@ This project analyzes Amazon product reviews to uncover insights into customer s
 ## Getting Started
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/your-username/sentiment-analysis-product-reviews.git](https://github.com/ppranitharedd/Bigdata_project.git)
+   ![git clone https://github.com/your-username/sentiment-analysis-product-reviews.git](https://github.com/ppranitharedd/Bigdata_project.git)
