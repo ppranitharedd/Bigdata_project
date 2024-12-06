@@ -25,7 +25,7 @@ This project analyzes Amazon product reviews to uncover insights into customer s
 5. **Visualization**: Tableau retrieves data for creating interactive dashboards.
 
 ## Architecture Diagram
-![Architecture Diagram](path/to/architecture-diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 ## Getting Started
 1. Clone this repository:
